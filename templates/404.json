@@ -5,7 +5,7 @@
       "settings": {
       }
     },
-    "dfff1e02-ac19-4251-93d5-6451e7c4cca3": {
+    "second": {
       "type": "404-new-section",
       "settings": {
         "error_id": "wassup"
@@ -14,6 +14,6 @@
   },
   "order": [
     "main",
-    "dfff1e02-ac19-4251-93d5-6451e7c4cca3"
+    "second"
   ]
 }
